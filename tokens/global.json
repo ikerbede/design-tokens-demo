@@ -1,0 +1,77 @@
+{
+  "color": {
+    "white": {
+      "value": "#FFFFFF",
+      "type": "color"
+    },
+    "black": {
+      "400": {
+        "value": "#444444",
+        "type": "color"
+      }
+    },
+    "green": {
+      "300": {
+        "value": "#B0FFD9",
+        "type": "color"
+      }
+    },
+    "purple": {
+      "400": {
+        "value": "#9E63FF",
+        "type": "color"
+      }
+    }
+  },
+  "font-size": {
+    "xlarge": {
+      "value": "32px",
+      "type": "fontSizes"
+    },
+    "medium": {
+      "value": "16px",
+      "type": "fontSizes"
+    },
+    "xsmall": {
+      "value": "10px",
+      "type": "fontSizes"
+    }
+  },
+  "border-radius": {
+    "large": {
+      "value": "16px",
+      "type": "borderRadius"
+    }
+  },
+  "spacing": {
+    "large": {
+      "value": "32px",
+      "type": "spacing"
+    },
+    "medium": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "small": {
+      "value": "12px",
+      "type": "spacing"
+    },
+    "xsmall": {
+      "value": "8px",
+      "type": "spacing"
+    }
+  },
+  "box-shadow": {
+    "simple-bottom": {
+      "value": {
+        "x": "0",
+        "y": "4px",
+        "blur": "4px",
+        "spread": "0",
+        "color": "#00000040",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
+  }
+}
