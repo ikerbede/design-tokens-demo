@@ -1,0 +1,73 @@
+/**
+ * Do not edit directly
+ * Generated on Fri, 28 Jun 2024 15:18:25 GMT
+ */
+
+:root {
+  --dark-card-border-radius: 0;
+  --dark-button-border-radius: 0;
+  --spacing-xsmall: 8px;
+  --spacing-small: 12px;
+  --spacing-medium: 16px;
+  --spacing-large: 32px;
+  --font-weight-bold: 700;
+  --font-weight-regular: 400;
+  --font-size-xsmall: 10px;
+  --font-size-medium: 16px;
+  --font-size-xlarge: 32px;
+  --font-family-primary: Inter;
+  --color-purple-400: #9e63ff;
+  --color-green-300: #b0ffd9;
+  --color-black-400: #444444;
+  --color-white: #ffffff;
+  --box-shadow-simple-bottom: 0 4px 4px 0 #00000040;
+  --border-radius-large: 16px;
+  --light-card-comment-font-weight: var(--font-weight-regular);
+  --light-card-comment-font-size: var(--font-size-xsmall);
+  --light-card-comment-color: var(--color-black-400);
+  --light-card-price-font-weight: var(--font-weight-bold);
+  --light-card-price-font-size: var(--font-size-xlarge);
+  --light-card-price-color: var(--color-black-400);
+  --light-card-title-font-weight: var(--font-weight-bold);
+  --light-card-title-font-size: var(--font-size-medium);
+  --light-card-padding: var(--spacing-medium);
+  --light-card-gap: var(--spacing-small);
+  --light-card-box-shadow: var(--box-shadow-simple-bottom);
+  --light-card-border-radius: var(--border-radius-large);
+  --light-card-background-color: var(--color-green-300);
+  --light-button-secondary-color: var(--color-black-400);
+  --light-button-secondary-background-color: var(--color-white);
+  --light-button-primary-color: var(--color-white);
+  --light-button-padding: var(--spacing-xsmall) var(--spacing-large);
+  --light-button-font-weight: var(--font-weight-regular);
+  --light-button-font-size: var(--font-size-medium);
+  --light-button-box-shadow: var(--box-shadow-simple-bottom);
+  --light-button-border-radius: var(--border-radius-large);
+  --light-font-family: var(--font-family-primary);
+  --light-color-primary: var(--color-purple-400);
+  --dark-card-comment-font-weight: var(--font-weight-regular);
+  --dark-card-comment-font-size: var(--font-size-xsmall);
+  --dark-card-comment-color: var(--color-white);
+  --dark-card-price-font-weight: var(--font-weight-bold);
+  --dark-card-price-font-size: var(--font-size-xlarge);
+  --dark-card-price-color: var(--color-white);
+  --dark-card-title-font-weight: var(--font-weight-bold);
+  --dark-card-title-font-size: var(--font-size-medium);
+  --dark-card-padding: var(--spacing-medium);
+  --dark-card-gap: var(--spacing-small);
+  --dark-card-box-shadow: var(--box-shadow-simple-bottom);
+  --dark-card-background-color: var(--color-black-400);
+  --dark-button-secondary-color: var(--color-black-400);
+  --dark-button-secondary-background-color: var(--color-white);
+  --dark-button-primary-color: var(--color-black-400);
+  --dark-button-padding: var(--spacing-xsmall) var(--spacing-large);
+  --dark-button-font-weight: var(--font-weight-regular);
+  --dark-button-font-size: var(--font-size-medium);
+  --dark-button-box-shadow: var(--box-shadow-simple-bottom);
+  --dark-font-family: var(--font-family-primary);
+  --dark-color-primary: var(--color-green-300);
+  --light-card-title-color: var(--light-color-primary);
+  --light-button-primary-background-color: var(--light-color-primary);
+  --dark-card-title-color: var(--dark-color-primary);
+  --dark-button-primary-background-color: var(--dark-color-primary);
+}

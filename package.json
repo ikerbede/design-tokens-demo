@@ -6,10 +6,15 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "sd-build": "node sd.config.js"
   },
   "devDependencies": {
+    "style-dictionary": "^3.9.2",
     "typescript": "^5.2.2",
     "vite": "^5.3.1"
+  },
+  "dependencies": {
+    "style-dictionary-utils": "^2.4.1"
   }
 }

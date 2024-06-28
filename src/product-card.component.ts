@@ -20,7 +20,7 @@ const template = `
     </section>
     <footer class="product-card-footer">
       <button id="button-buy" class="primary">Acheter</button>
-      <button id="button-more">Voir plus</button>
+      <button id="button-more" class="secondary">Voir plus</button>
     </footer>
   </article>
 </template>
